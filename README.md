@@ -7,7 +7,7 @@ Entrenamiento de una red neuronal artificial (RNA) para la detección de incendi
 
 ## Especificaciones
 
-- [ ]  Construir una muestra de incendios forestales a partir de una estrategia de muestreo propuesta para el problema. Definir con claridad la estrategia seleccionada, estratos considerados, número de instancias, entre otros factores relevantes que consideren para la construcción de la muestra.
+- [x]  Construir una muestra de incendios forestales a partir de una estrategia de muestreo propuesta para el problema. Definir con claridad la estrategia seleccionada, estratos considerados, número de instancias, entre otros factores relevantes que consideren para la construcción de la muestra.
 - [ ]  Implementar un proceso de particionamiento para el etiquetado de zonas locales como Incendio (I), Humo (H), no incendio (N). 
 - [ ]  Definir un conjunto de valores característicos a extraer de las imágenes locales a partir de una imagen de entrada. Enlistar cada uno de ellos definiendo con claridad cómo se calculan y argumentar brevemente porqué cada valor puede aportar a un proceso de entrenamiento de una RNA.
 - [ ]  Realizar un análisis y argumentar que tipo de validación cruzada se usará en su experimentación, considerando que se debe usar la mayor cantidad de cruces posibles, garantizando en todo momento la medición de lo que sucede en cada clase.
