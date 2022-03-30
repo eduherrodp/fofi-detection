@@ -39,4 +39,4 @@ Python, Jupyter Lab, OpenCV
 - [@José Eduardo Hernández Rodríguez](https://www.instagram.com/__edhe/)
 - [@Ivonne Vargas García](https://www.instagram.com/ivonne_v.g/)
 - [@Jafet Maravilla López](https://www.instagram.com/__edhe/)
-- [@José David Navarro Flores](https://www.facebook.com/profile.php?id=100009211793484&sk=about_details/)
+- [@José David Navarro Flores](https://www.facebook.com/profile.php?id=100009211793484/)
